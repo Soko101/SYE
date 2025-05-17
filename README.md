@@ -12,11 +12,11 @@
 
 - Streaming Technologies: The project examines the streaming protocols and audio codecs used by each service:
 
-- Apple Music: AAC, ALAC [cite: uploaded:SYE-Poster-Image.jpg-8c55d4da-4deb-42df-bb56-593a3a26a7b9].
+- Apple Music: AAC, ALAC [cite: uploaded:SYE-Poster-Image.jpg].
 
-- Spotify: Spotify Streaming Protocol (SPS) [cite: uploaded:SYE-Poster-Image.jpg-8c55d4da-4deb-42df-bb56-593a26a7b9].
+- Spotify: Spotify Streaming Protocol (SPS) [cite: uploaded:SYE-Poster-Image.jpg].
 
-- SoundCloud: HTTP Live Streaming (HLS) [cite: uploaded:SYE-Poster-Image.jpg-8c55d4da-4deb-42df-bb56-593a26a7b9].
+- SoundCloud: HTTP Live Streaming (HLS) [cite: uploaded:SYE-Poster-Image.jpg].
 
 - Hardware and Setup: The project utilizes a Raspberry Pi, adapters, and an Ethernet connection to the SLU network to simulate different network conditions [cite: uploaded:SYE-Poster-Image.jpg, [cite: uploaded:SYE-Soko (1).pdf].
 
